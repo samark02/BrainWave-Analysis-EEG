@@ -14,7 +14,7 @@ Neurological disorders like seizures are unpredictable and challenging to diagno
 
 ## Repository
 
-- 📁 **model** — Core notebook for data preprocessing, model development, and experiments.
+- 📁 **model.ipynb** — Core notebook for data preprocessing, model development, and experiments.
 
 ## Status
 
