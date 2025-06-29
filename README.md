@@ -19,3 +19,7 @@ Neurological disorders like seizures are unpredictable and challenging to diagno
 ## Status
 
 This is an **ongoing research project**. The notebooks and results are under active development and will be updated as work progresses.
+
+## References
+
+Additional project documents and the original presentation are available [here](https://drive.google.com/drive/folders/1w3jebjB1UvhndqW_49wNjGXCMhFoqGPy?usp=sharing).
